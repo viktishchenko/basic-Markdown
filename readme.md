@@ -2,7 +2,7 @@
 
 :warning: This is the **Preview Page** to see how it's rendered.
 
-:point_right: Open the [Basic Markdown](readme.md) to see the code.
+:point_right: Open the [Basic Markdown](https://github.com/viktishchenko/markdown/blame/master/readme.md) to see the code.
 
 ## Text Formatting
 
